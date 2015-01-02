@@ -8,7 +8,7 @@ relative_permalinks: true
 
 # Setup
 title:            johannesw
-tagline:          'Projects and updates on DevOps, Cloud, Web, Docker, Node, and other cool things'
+tagline:          'DevOps, Cloud, Web, Docker, Node, and other cool things'
 description:      'Projects and updates on DevOps, Cloud, Web, Docker, Node, and other cool things'
 url:              http://johannesw.net
 baseurl:          /
