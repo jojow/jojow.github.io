@@ -3,6 +3,8 @@ layout: page
 title: About
 ---
 
+*Streamlining Software Development and Operations (DevOps) based on Continuous Delivery, Cloud Computing, and Open Source*
+
 I'm convinced that modern applications (mainly Web, mobile, and IoT, but not only those) must be developed and delivered with tight integration between developers and sysadmins/operations people (DevOps). Otherwise, applications cannot evolve quickly and stable enough to satisfy and react to growing and constantly changing requirements of diverse users, stakeholders, and environments. Tight DevOps collaboration must be achieved through highly automated, aligned, but agile processes. Therefore, my current work and research heavily focus on DevOps collaboration, integration, and automation to bridge the gap between dev and ops, considering both design time and runtime (including knowledge management, decision support, monitoring, and feedback loops).
 
 <p class="message" style="font-style: italic;">
