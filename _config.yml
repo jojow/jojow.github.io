@@ -1,0 +1,25 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            johannesw
+tagline:          'projects and updates'
+description:      'Projects and updates on DevOps, Cloud, Web, Docker, Node, and other cool things'
+url:              http://johannesw.net
+baseurl:          /
+
+author:
+  name:           'Johannes Wettinger'
+  url:            https://github.com/jojow
+
+paginate:         3
+
+# Custom vars
+#version:          2.1.0
+#github:
+#  repo:           https://github.com/jojow/clartigr
