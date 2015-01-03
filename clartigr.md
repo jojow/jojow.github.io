@@ -1,6 +1,7 @@
 ---
 layout: page
 title: clartigr
+weight: 11
 ---
 
 *Cloud Artifact & Instance Manager*

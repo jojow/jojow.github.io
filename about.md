@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+weight: 0
 ---
 
 *Streamlining Software Development and Operations (DevOps) based on Continuous Delivery, Cloud Computing, and Open Source*
