@@ -8,4 +8,4 @@ weight: 11
 
 Currently used by [OpenTOSCA](http://opentosca.org) to manage the invocation of scripts and DevOps artifacts such as Chef cookbooks, etc.
 
-See [clartigr.org](http://clartigr.org) for further details.
+See [github.com/jojow/clartigr](https://github.com/jojow/clartigr) for further details.
