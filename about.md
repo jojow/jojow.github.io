@@ -18,7 +18,7 @@ Continuously integrating, testing, and deploying new iterations of an applicatio
   Cloud computing and continuous delivery enable DevOps automation
 </p>
 
-I'm a strong supporter of open-source software because it's a great and efficient way to collaborate and to make serious progress based on actually running code and prototypes. Beside many other reasons, transparency and quality is significantly improved. Therefore, I share and publish my work whenever possible on GitHub under an open-source license. To ease the usage and re-use of my work, it's usually packaged in a portable way, e.g., as [npm](https://www.npmjs.com) module or [Docker](https://www.docker.com) container.
+I'm a strong supporter of open-source software because it's a great and efficient way to collaborate and to make serious progress based on actually running code and prototypes. Beside many other reasons, transparency and quality is significantly improved. Therefore, I share and publish my work whenever possible on GitHub under an open-source license. To ease the usage and re-use of my work, it's packaged in a portable way, e.g., as [npm](https://www.npmjs.com) module or [Docker](https://www.docker.com) container.
 
 <p class="message" style="font-style: italic;">
   Open-source software for efficient collaboration based on running code
