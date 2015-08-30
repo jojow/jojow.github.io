@@ -6,7 +6,7 @@ weight: 0
 
 *Streamlining Software Development and Operations (DevOps) based on Continuous Delivery, Cloud Computing, and Open Source*
 
-I'm convinced that modern applications (mainly Web, mobile, and IoT, but not only those) must be developed and delivered with tight integration between developers and sysadmins/operations people (DevOps). Otherwise, applications cannot evolve quickly and stable enough to satisfy and react to growing and constantly changing requirements of diverse users, stakeholders, and environments. Tight DevOps collaboration must be achieved through highly automated, aligned, but agile processes. Therefore, my current work and research heavily focus on DevOps collaboration, integration, and automation to bridge the gap between dev and ops, considering both design time and runtime (including knowledge management, decision support, monitoring, and feedback loops).
+Modern applications (mainly Web, mobile, microservices, and IoT, but not only those) must be developed and delivered with consolidated responsibility and tight integration between developers and sysadmins/operations people (DevOps). Otherwise, applications cannot evolve quickly and stable enough to satisfy and react to growing and constantly changing requirements of diverse users, stakeholders, and environments. Tight DevOps collaboration must be achieved through highly automated, aligned, but agile processes. Therefore, my current work and research heavily focus on DevOps collaboration, integration, and automation to bridge the gap between dev and ops, considering both design time and runtime (including knowledge management, decision support, monitoring, and feedback loops).
 
 <p class="message" style="font-style: italic;">
   DevOps collaboration and integration through high degree of automation
@@ -34,7 +34,7 @@ Currently, I'm working as a researcher and PhD student at the Institute of Archi
 
 ## Bio
 
-Opinions expressed are solely my own and do not express the views or opinions of my employer. -->
+Opinions expressed are solely my own and do not express the views or opinions of my employer.
 
 > foo
 
