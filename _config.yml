@@ -1,12 +1,3 @@
-# Dependencies
-markdown:         redcarpet
-highlighter:      pygments
-
-# Permalinks
-permalink:        pretty
-relative_permalinks: true
-
-# Setup
 title:            johannesw
 tagline:          'DevOps, Continuous Delivery, Cloud, Microservices, Web, Docker, Node, and other cool things'
 description:      'DevOps, Continuous Delivery, Cloud, Microservices, Web, Docker, Node, and other cool things'
@@ -17,9 +8,13 @@ author:
   name:           'Johannes Wettinger'
   url:            https://github.com/jojow
 
-paginate:         3
+gems:
+- 'jekyll-paginate'
 
-# Custom vars
-#version:          2.1.0
-#github:
-#  repo:           https://github.com/jojow/clartigr
+permalink:        pretty
+paginate:         3
+paginate_path:    'page:num'
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
